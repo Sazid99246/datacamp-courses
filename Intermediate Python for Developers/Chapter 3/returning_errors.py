@@ -1,5 +1,4 @@
 def snake_case(text):
-  # Check the data type
   if type(text) == str:
     clean_text = text.replace(" ", "_")
     clean_text = clean_text.lower()

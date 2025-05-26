@@ -29,7 +29,7 @@ cid,srid,fname,lname,phone,fax,email
 28,5,Julia,Barnett,+1 (801) 531-7272,NaN,jubarnett@gmail.com
 29,3,Robert,Brown,+1 (416) 363-8888,NaN,robbrown@shaw.ca
 30,3,Edward,Francis,+1 (613) 234-3322,NaN,edfrancis@yachoo.ca
-31,5,Martha,Silk,+1 (902) 450-0450,,NaN,marthasilk@gmail.com
+31,5,Martha,Silk,+1 (902) 450-0450,NaN,marthasilk@gmail.com
 32,4,Aaron,Mitchell,+1 (204) 452-6452,NaN,aaronmitchell@yahoo.ca
 33,3,Ellie,Sullivan,+1 (867) 920-2233,NaN,ellie.sullivan@shaw.ca
 34,4,João,Fernandes,+351 (213) 466-111,NaN,jfernandes@yahoo.pt
